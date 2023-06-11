@@ -3,4 +3,4 @@
 	url = https://github.com/KaiyangZhou/deep-person-reid
 [submodule "yolov7"]
 	path = yolov7
-	url = https://github.com/timmmariya/yolov7
+	url = https://github.com/timmariya/yolov7
